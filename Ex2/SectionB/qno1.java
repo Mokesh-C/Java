@@ -1,5 +1,5 @@
-package Ex1.SectionB;
-import java.util.*;
+package Ex2.SectionB;
+
 public class qno1 {
     public static void main(String[] args) {
         //Integers

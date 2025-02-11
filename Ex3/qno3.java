@@ -1,4 +1,4 @@
-package Ex2;
+package Ex3;
 
 public class qno3 {
     public static void main(String[] args) {
