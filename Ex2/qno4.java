@@ -8,13 +8,7 @@ public class qno4 {
             int target = Integer.decode(args[0]);
             int[] arr = {74,95,110,130,155};
             int i = 0;
-            while ( i< arr.length) {
-                if(target<=arr[i]){
-                    System.out.println("Hurricance Catagory : "+ i);
-                    break;
-                }
-                i++;
-            }
+
             if(target>arr[arr.length-1]){
                 System.out.println("Hurricance Catagory : "+ i);
             }
