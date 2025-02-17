@@ -1,4 +1,4 @@
-package Ex1.SectionA;
+package Ex2.SectionA;
 
 public class qno1 {
     public static void main(String[] args){
